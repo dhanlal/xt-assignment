@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/XT-Coding-Assignment/static/css/main.305e4246.chunk.css",
+    "main.js": "/XT-Coding-Assignment/static/js/main.849352c8.chunk.js",
+    "main.js.map": "/XT-Coding-Assignment/static/js/main.849352c8.chunk.js.map",
+    "runtime-main.js": "/XT-Coding-Assignment/static/js/runtime-main.47662121.js",
+    "runtime-main.js.map": "/XT-Coding-Assignment/static/js/runtime-main.47662121.js.map",
+    "static/js/2.6dc0b447.chunk.js": "/XT-Coding-Assignment/static/js/2.6dc0b447.chunk.js",
+    "static/js/2.6dc0b447.chunk.js.map": "/XT-Coding-Assignment/static/js/2.6dc0b447.chunk.js.map",
+    "index.html": "/XT-Coding-Assignment/index.html",
+    "precache-manifest.ce3fc24714f699bc344445c31996f524.js": "/XT-Coding-Assignment/precache-manifest.ce3fc24714f699bc344445c31996f524.js",
+    "service-worker.js": "/XT-Coding-Assignment/service-worker.js",
+    "static/css/main.305e4246.chunk.css.map": "/XT-Coding-Assignment/static/css/main.305e4246.chunk.css.map",
+    "static/js/2.6dc0b447.chunk.js.LICENSE.txt": "/XT-Coding-Assignment/static/js/2.6dc0b447.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/XT-Coding-Assignment/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.47662121.js",
+    "static/js/2.6dc0b447.chunk.js",
+    "static/css/main.305e4246.chunk.css",
+    "static/js/main.849352c8.chunk.js"
+  ]
+}
