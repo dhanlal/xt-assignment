@@ -26,7 +26,7 @@ class App extends Component {
   }
   getSpacexData(filterObject={}){
     this.setState({isLoaded: true})
-    let url = "https://api.spaceXdata.com/v3/launches?limit=10";
+    let url = "https://api.spaceXdata.com/v3/launches?limit=20";
     Object.keys(filterObject).map(key => {
       const value = filterObject[key]
       if(value){

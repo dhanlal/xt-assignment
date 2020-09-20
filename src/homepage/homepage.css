@@ -1,12 +1,14 @@
 .card {
     box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
     transition: 0.3s;
-    width: calc(25% - 24px);
+    width: calc(25% - 24px) ;
     margin: 10px;
     padding: 2px;
     background-color: white;
   }
-
+.homepage{
+  width: 100%;
+}
   .card:hover {
     box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
   }
@@ -32,7 +34,7 @@
     padding: 10px;
     background-color: #f3f3f3;
     width: 85%;
-    margin: 10px 10px 10px 10px;
+    margin: 10px;
 
   }
   .space-la{
@@ -46,16 +48,16 @@
   }
   .sidebar-main-1{
     background: white;
-    margin: 10px 10px 10px 10px;
+    margin: 10px;
   }
 .sidebar{
-  margin: 10px 10px 10px 11px;
+  margin: 10px;
 }
 .spacex-launch{
   text-align: center;
 }
 
-@media only screen  and (max-width: 700px) {
+@media only screen  and (max-width: 768px) {
   .App-logo {
     animation: App-logo-spin infinite 20s linear;
   }
