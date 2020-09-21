@@ -66,3 +66,9 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `npm run build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+# xt-assignment
+
+ . git clone https://github.com/dhanlal/xt-assignment.git
+ . git init
+ . npm install
+ . start npm
