@@ -20,7 +20,7 @@
     animation: App-logo-spin infinite 20s linear;
   }
   .sidebar-main{
-    /* max-width: 100%; */
+    max-width: 100%;
   }
 }
 
